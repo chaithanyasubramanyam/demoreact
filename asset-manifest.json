@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chaithanyasubramanyam/demoreact.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/chaithanyasubramanyam/demoreact.git/static/js/main.1e3f79ab.chunk.js",
+    "main.js.map": "/chaithanyasubramanyam/demoreact.git/static/js/main.1e3f79ab.chunk.js.map",
+    "runtime-main.js": "/chaithanyasubramanyam/demoreact.git/static/js/runtime-main.7ca9eafc.js",
+    "runtime-main.js.map": "/chaithanyasubramanyam/demoreact.git/static/js/runtime-main.7ca9eafc.js.map",
+    "static/js/2.156e23e6.chunk.js": "/chaithanyasubramanyam/demoreact.git/static/js/2.156e23e6.chunk.js",
+    "static/js/2.156e23e6.chunk.js.map": "/chaithanyasubramanyam/demoreact.git/static/js/2.156e23e6.chunk.js.map",
+    "index.html": "/chaithanyasubramanyam/demoreact.git/index.html",
+    "precache-manifest.7f76861e4ed4a0c2729f0bcf5a854b9d.js": "/chaithanyasubramanyam/demoreact.git/precache-manifest.7f76861e4ed4a0c2729f0bcf5a854b9d.js",
+    "service-worker.js": "/chaithanyasubramanyam/demoreact.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/chaithanyasubramanyam/demoreact.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.156e23e6.chunk.js.LICENSE.txt": "/chaithanyasubramanyam/demoreact.git/static/js/2.156e23e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ca9eafc.js",
+    "static/js/2.156e23e6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1e3f79ab.chunk.js"
+  ]
+}
